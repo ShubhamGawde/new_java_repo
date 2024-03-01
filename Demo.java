@@ -1,6 +1,7 @@
 public class Demo{
 
-    public static void main(String[] args) {
+    public void main() {
         System.out.println("hello");
+        System.out.println("this is my second commit and it is for just testing purpose");
     }
 }
